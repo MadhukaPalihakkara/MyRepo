@@ -135,3 +135,6 @@ The letters not in the password "UNDERPASS" are B, C, F, G, H, I, J, K, L, M, O,
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/b6bc83da-2612-4242-a7eb-016bc1cc9156)
 
+#  What does hacking Gandalf tell you about AI security?
+
+AI works according to the provided instructions and implemented algorithms. It is not impossible to break or find weak points of an AI implementation. I believe this is a good answer to the question 'Will AI replace human professionals?', AI will be best at automating repetitive work and processing big amounts of data but in solving complex problems, creativity, and critical thinking still human professionals are in the lead. 
