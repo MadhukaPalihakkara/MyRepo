@@ -36,6 +36,47 @@ Another core objective of campaign analysis is to understand the intruders’ in
 The kill chain represents a new process that has evolved from enhancing the existing F2T2EA model, addressing certain missing components related to intrusion detection perspectives. 
 Traditional intrusion detection methodologies typically focus on identifying intrusions post the exploitation phase in the new model. However, this document underscores the importance of analyzing the entire attack path to comprehend the behaviors associated with the attack and prevent more sophisticated forms of attacks, such as Advanced Persistent Threats (APTs). Examining adversaries based on the seven-phase model proposed in this document enables defenders to implement more effective precautions in the early stages of the attack lifecycle at minimal cost. Ultimately, this article highlights the significance of analyzing and correlating attacks to gain valuable insights for the easy detection and prevention of subsequent, zero-day, and future attacks. It is often observed that certain common indicators persist across previous adversaries, even as new ones attempt to remain undetected.
 
+## Threat Model
+### Summary
+Threat model is a way to anticipate the threats that could affect you. begin threat modeling by focusing on four key questions:
+What are you building?
+What can go wrong?
+What should you do about those things that can go wrong?
+Did you do a decent job of analysis?
+
+you should draw trust boundaries wherever different people control different things. Such as 
+
+•	Accounts (UIDs on unix systems, or SIDS on Windows)
+•	Network interfaces
+•	Different physical computers
+•	Virtual machines
+•	Organizational boundaries
+•	Almost anywhere you can argue for different privileges
+
+Think about threat model diagrams as part of the development process, so try to keep it in source control with everything else.
+
+Using STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege) as a mnemonic can help you walk through a diagram and select example threats. Pair that with a little knowledge of security and the right techniques, and you'll find the important threats faster and more reliably. 
+
+The next step in the threat modeling process is to go through the lists and address each threat. Actions would be Mitigate it, eliminate it, transfer it, or accept it.
+
+Validation of your threat model is the last thing you do as part of threat modeling. You should ensure that the final model matches what you built. Answering following questions will ease the validation.
+
+•	Is this complete?
+•	Is it accurate?
+•	Does it cover all the security decisions we made?
+•	Can I start the next version with this diagram without any changes?
+
+Update the model if you find anything missing.
+There are two main types of validation activities you should do. 
+
+•	that you did the right thing with each threat you found
+•	if you found all the threats you should find
+
+If you have a process in place for ensuring that you develop a threat model, document it, and you can increase confidence in your software.
+
+### What does it mean to me :
+
+Treat model start with a simple diagram with all the components included and then introduce trust boundaries to the diagram. Then analyze the system using STRIDE concepts and list down all the possible treats. Then we need to address each and every treat we listed. There are different ways to address threats (Mitigate threats, eliminate threats, transfer threats and accept threats). In verification process need to consider whether we found all the treats and we addressed the all found treats.
 
 ### [Starting a lab](Starting%20a%20lab.md)
 ### [Starting a lab steps and screen shots](Starting%20a%20lab.md) moved to a seperate link since t is too long to include in this file.
