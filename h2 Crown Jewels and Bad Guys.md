@@ -38,4 +38,4 @@ Traditional intrusion detection methodologies typically focus on identifying int
 
 #
 ### [Starting a lab](Starting%20a%20lab.md)
-[Starting a lab steps and screen shots] (Starting%20a%20lab.md) moved to a seperate link since t is too long to include in this file.
+### [Starting a lab steps and screen shots] (Starting%20a%20lab.md) moved to a seperate link since t is too long to include in this file.
