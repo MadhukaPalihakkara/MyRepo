@@ -28,3 +28,9 @@ Execute the basic functionality of mouse, keyboard, network and display.
 
 reboot, logged in.
 
+## Install VirtualBox Guest Additions
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/cde59632-53f1-4e8b-99b8-34d4a1d25d8f)
+
+My Lab is ready with a big screen :)
+
+
