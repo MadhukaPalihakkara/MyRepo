@@ -87,5 +87,8 @@ If you have a process in place for ensuring that you develop a threat model, doc
 
 Treat model start with a simple diagram with all the components included and then introduce trust boundaries to the diagram. Then analyze the system using STRIDE concepts and list down all the possible treats. Then we need to address each and every treat we listed. There are different ways to address threats (Mitigate threats, eliminate threats, transfer threats and accept threats). In verification process need to consider whether we found all the treats and we addressed the all found treats.
 
-### [Starting a lab](Starting%20a%20lab.md)
-### [Starting a lab steps and screen shots](Starting%20a%20lab.md) moved to a seperate link since t is too long to include in this file.
+### Incident Analyses
+### [Analysis of security incident](Analysis%20of%20the%20Security%20incident.md) moved to a seperate link since this is too long to include in this file.
+
+### Starting a lab
+### [Starting a lab steps and screen shots](Starting%20a%20lab.md) moved to a seperate link since this is too long to include in this file.
