@@ -9,6 +9,7 @@ Create a New Virtual Machine using Oracle VirtualBox
 
 ## Boot to desktop
 Here is the live desktop.
+
  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/15eeccbc-7bb8-461e-a7ec-666cd5d788cf)
 
 Execute the basic functionality of mouse, keyboard, network and display.
