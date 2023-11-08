@@ -47,10 +47,15 @@ Did you do a decent job of analysis?
 you should draw trust boundaries wherever different people control different things. Such as 
 
 •	Accounts (UIDs on unix systems, or SIDS on Windows)
+
 •	Network interfaces
+
 •	Different physical computers
+
 •	Virtual machines
+
 •	Organizational boundaries
+
 •	Almost anywhere you can argue for different privileges
 
 Think about threat model diagrams as part of the development process, so try to keep it in source control with everything else.
@@ -62,14 +67,18 @@ The next step in the threat modeling process is to go through the lists and addr
 Validation of your threat model is the last thing you do as part of threat modeling. You should ensure that the final model matches what you built. Answering following questions will ease the validation.
 
 •	Is this complete?
+
 •	Is it accurate?
+
 •	Does it cover all the security decisions we made?
+
 •	Can I start the next version with this diagram without any changes?
 
 Update the model if you find anything missing.
 There are two main types of validation activities you should do. 
 
 •	that you did the right thing with each threat you found
+
 •	if you found all the threats you should find
 
 If you have a process in place for ensuring that you develop a threat model, document it, and you can increase confidence in your software.
