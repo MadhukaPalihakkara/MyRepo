@@ -16,4 +16,15 @@ Execute the basic functionality of mouse, keyboard, network and display.
 ## Run the Installer
  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/cb27f2aa-e5c3-4721-a0da-5c5071d5a428)
 
+## First Login
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/486d64e6-9866-472e-b9e7-5e2eef26c0ed)
+
+## Upgrade everything.
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/2a51fa2c-dd0f-4b45-ba10-9c1d47c60fae)
+
+## Install a firewall and turn it on.
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/5c69c7a7-fd4a-4951-861e-18005d62f88f)
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/d4c5e3ec-61db-4e37-8e3a-4901f7b294f4)
+
+reboot, logged in.
 
