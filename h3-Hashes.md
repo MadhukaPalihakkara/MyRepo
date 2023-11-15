@@ -120,5 +120,5 @@ Observation : Hashes are not equal or there are no any significant similarities.
 Conclusion : Any changes (even a small change) of the source file could generate a complete different hash values.  
  
 # c)	Install a HashCat and test it work? 
-
+   [Link to content above](https://github.com/MadhukaPalihakkara/MyRepo/edit/main/h3-Hashes.md#cracking-hashes-with-hashcat)
 
