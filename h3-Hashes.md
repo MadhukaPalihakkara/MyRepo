@@ -108,6 +108,7 @@ Bitcoin mining is related to the same method. It finds hash values that has lead
 # b)	Compare hashes
 
 Create a file and get the hash
+
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/309d09b5-512e-41aa-89e1-bb1584f4af75)
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/06730511-f113-4956-8104-6bd9da36cb0b)
@@ -120,5 +121,61 @@ Observation : Hashes are not equal or there are no any significant similarities.
 Conclusion : Any changes (even a small change) of the source file could generate a complete different hash values.  
  
 # c)	Install a HashCat and test it work? 
-   [Link to content above](https://github.com/MadhukaPalihakkara/MyRepo/edit/main/h3-Hashes.md#cracking-hashes-with-hashcat)
+   [Link to content above](https://github.com/MadhukaPalihakkara/MyRepo/blob/main/h3-Hashes.md#cracking-hashes-with-hashcat)
 
+# d)	Crack this hash: 21232f297a57a5a743894a0e4a801fc3
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/cc4abd20-7881-4b58-88de-932765149420)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/330374d8-aac7-4b6d-b3f6-3fa3b7d41677)
+
+Hash given hash is a MD5 hash and it was easily cracked with in milliseconds. The hashed words is admin.  
+
+# e)	Creacked NTLM hash
+
+Followig command use to crack the NTLM hash. 
+Hash type 1000 (Using man pages)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/f8bb92d9-698c-4239-a596-c97d5d456921)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/206a9c57-fba6-4681-99bd-885bd376c13f)
+
+The creacked password is monkey.
+
+##	Try cracking this hash and comment on your hash rate $2y$18 $axMtQ4N8j/NQVItQJed9uORfsUK667RAWfycwFMtDBD6zAo1Se2eu .
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/ffa13ae9-c609-496f-a469-acfb37209abf)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/a68b6fea-9943-48fb-ad3e-80ed5f7b71b2)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/40ccf427-fd00-4618-b529-0e3eb587aaf5)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/c17ebd92-e032-4ea3-8e7f-b96b39959e23)
+
+Speed Only option
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/c6ba36a1-ef2b-4a6f-88d6-074fbf41d192)
+
+Command not provided the HashRate (Speed) because the given password was Cracked very easily. I checked the speed only command separately and the answer was same. 
+
+# n)	create some hashes of your own, then crack them with hashcat
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/f5ade2be-09dd-4998-9dfa-2fc86a52496d)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/68510e6c-65b6-41b4-b690-59893cd10cb5)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/d9b43aa4-3d81-439e-9105-d3726744b034)
+
+##	Cracking shs256 hash
+
+Get the Sha256 hash
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/b1a21266-f031-41bd-8a5d-b04870dc61a3)
+
+Get the hash id using hashhid command
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/b3813471-7188-4510-bb7b-87eb2c7ed3f1)
+
+Crack the hash using HashCat but it was failed due to complexity of the hashed value.
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/c0f33d6b-9aca-44c5-8743-0cf71d6e15f6)
+
+Information observed
+Speed or HashRate is 2721.9 kH/s means 2721900 hashes processed per second. 
