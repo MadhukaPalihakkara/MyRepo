@@ -90,3 +90,35 @@ Issue a HashCat command to crack the given hash. It is the MD5 hash of the work 
  
 It is finally found the related word of the given hash and written it in to a text file using a given file name in the command "solved1.txt".
  
+#	a) Billion dollar busywork
+For small change in a input, complete hash value is changed. 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/ec5dc03b-a265-4e7f-9339-c2001fe3ed36)
+
+Get the Zero in front of the hash value : Keep trying with the various inputs and check the result has a leading zero. We can use a small script to check this out as shown in below. 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/2c0440dd-a2c3-4fae-8f88-b937a0005ed1)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/600a0eec-e0d0-4a1c-9863-3564d641495b)
+
+### How this related to BitCoin ?
+Bitcoin mining is related to the same method. It finds hash values that has leading zeros. Number of leading zeros in next hashes are determined by the specific calculation in every two weeks' time. Currently miners finding next Bitcoin hashes with 17 leading zeros. Ever found lowest Bitcoin value has 23 leading zeros. 
+
+### How many zeros can you get to the beginning?
+ According to my opinion if enough computational power is available, theoretically it is possible to generate a hash with all zeros. 
+
+# b)	Compare hashes
+
+Create a file and get the hash
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/309d09b5-512e-41aa-89e1-bb1584f4af75)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/06730511-f113-4956-8104-6bd9da36cb0b)
+
+Compare hashes 
+First Hash : d2a84f4b8b650937ec8f73cd8be2c74add5a911ba64df27458ed8229da804a26
+Second hash :  03ba204e50d126e4674c005e04d82e84c21366780af1f43bd54a37816b6ab340
+ 
+Observation : Hashes are not equal or there are no any significant similarities. Completely different hashes were generated.
+Conclusion : Any changes (even a small change) of the source file could generate a complete different hash values.  
+ 
+# c)	Install a HashCat and test it work? 
+
+
