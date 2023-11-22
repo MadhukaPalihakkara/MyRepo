@@ -8,3 +8,17 @@
 
 ## Rosenbaum 2019: Grokking Bitcoin
 ### Digital signatures 
+
+## a)
+
+## b)
+
+## c)
+
+## d)
+
+## f)
+
+## g)
+
+## h)
