@@ -4,6 +4,15 @@
 
 ### 2.6 Digital Signatures
 
+
+
+
+### 2.7 Digital Signatures With Encryption
+### 2.8 Random And Pseudo-Random-Sequence Generation
+
+## Rosenbaum 2019: Grokking Bitcoin
+### Digital signatures 
+
 •	Digital signature is a digital version of the handwritten signature.
 
 •	Securing the content with a digital signature has three phases, which are preparation, signing and verification.
@@ -19,13 +28,6 @@
 •	Keeping the private key secure is an individual responsibility.
 
 •	Keeping the private key secure is challenging while knowing that if you lose the private key it will not be recovered or regenerated.
-
-
-### 2.7 Digital Signatures With Encryption
-### 2.8 Random And Pseudo-Random-Sequence Generation
-
-## Rosenbaum 2019: Grokking Bitcoin
-### Digital signatures 
 
 ## a)
 
