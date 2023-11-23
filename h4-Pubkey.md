@@ -154,13 +154,41 @@ Browsers play a crucial role in enforcing this security measure by verifying the
 Reference : The HTTPS-Only Standard - Introduction to HTTPS (cio.gov) , What is HTTPS? - SSL.com
 
 
-## b)
+## b)	Send an encrypted and signed message using PGP
 
 ## c)
 
-## d)
+## d)	Explain how PGP protects against Mallory and Eve
 
-## f)
+Protect against Eve : PGP utilizes public key cryptography to ensure the confidentiality of messages. The recipient's public key, which is publicly available, is used to encrypt the message, and only the recipient, possessing the corresponding private key, can decrypt it. The private key is confidential information known only to the recipient. If a message is encrypted with the public key, it can be decrypted only by the respective private key at the recipient's end, preventing eavesdroppers from extracting information as the message is encrypted.
+ 
+However, there is a potential vulnerability. If the sender uses the wrong or compromised public key (set up by an attacker like Eve), the message could be read by the attacker. PGP addresses this issue by supporting the establishment of trust in the public key certificate through the verification of the signature on the public key. This ensures that Eve cannot compromise public keys during the initial phases of the encryption process.
+ 
+Protect against Malloy : Instead of the original message, another attacker like Malloy could send a false message to the intended recipient, masquerading as the original sender. This is one of the exceptional use cases arising from tampering with communication methods. Malloy can achieve this in two ways: by modifying messages through intercepting the communication channel or by sending completely forged messages to the recipient. PGP addresses these security concerns by implementing preventive measures through the calculation of message and certificate signatures.
+  
+If Malloy alters only the message during transmission, the message signatures will fail verification at the recipient's end, allowing the detection of unintended modifications.
+ 
+If Malloy changes both the message and the hash of the message, regeneration using the sender's public key becomes impossible because it was encrypted by the sender's private key.
+ 
+In the scenario where Malloy sends a completely new message while pretending to be the original sender, the forged message signature cannot be extracted or verified using the sender's public key. Therefore, such attempts can be easily detected by the recipient. The protection remains effective as long as both the sender and recipient use the correct public key certificates.
+
+
+## f)	Demonstrate use of a password manager. What kind of attacks take advantage of people not using password managers?
+
+Password managers are small software applications designed to securely store our passwords. Typically, password managers require a single master password for access to the system, where other stored passwords can be retrieved. It is a good practice to keep passwords in a secure environment, such as a password manager, rather than writing them down on paper or storing them in an Excel file on your personal computer. Password managers play a crucial role in preventing various types of password theft, as outlined below.
+ 
+Prevent using a weak password : Password managers enforce users to create passwords that comply with common complexity requirements or specific criteria set by the users. These tools also offer an auto-password generation option, freeing users from the need to formulate a new password themselves. Instead of manually coming up with a password, users can generate a new one by simply clicking a button in the graphical user interface (GUI). The password manager preserves the secrecy of the password by leveraging computational randomization power during the password generation process.
+Common criteria's of secure password (refer : Password must meet complexity requirements | Microsoft Learn) .
+NIST password standard 2022-2023  : NIST Special Publication 800-63B , NIST Password Best Practices: How to Keep Your Password Secure (psmpartners.com)
+ 
+Secure password with compliance requirements : In addition to complexity, there are other requirements essential for maintaining secure passwords. Many security standards mandate these requirements as compulsory controls that must be adhered to. These standards are widely implemented globally, and a valuable resource for understanding these compliance requirements can be found at " Password Policy | Microsoft Learn". Password managers play a crucial role in tightly enforcing these requirements for passwords stored in their safes.
+ 
+Alerting unsecure or compromised passwords: This is one of the latest features introduced by most password managers available today. It can verify the destination where users submit their credentials before utilizing them and prevents users from submitting information if the target is not secure. Furthermore, passwords are checked against a list of compromised passwords, and users are alerted to change their passwords immediately if a match is found (Ex : A breach alert feature available in Total Password tool).
+ 
+Protect from losses: Forgetting and the loss of passwords are among the primary problems solved by password management tools. However, they remain vulnerable to various threats, including password database corruption, master key losses or forgetfulness, ransomware attacks, and device failures. It is highly advisable to perform regular backups of the key database file and maintain recovery keys (break the glass scenario) to prevent such losses. 
+Protect from eavesdropping : When manually typing or copying passwords into a system, there is a high probability of them being traced by a nearby spy camera or an individual observing from behind. Password managers address this security concern by making the password entry process invisible when copying or modifying. This is a standard feature that comes with most password managers, enhancing the security of password usage. 
+Protect form phishing attacks: Password managers keep track of stored URLs, allowing them to indicate to users whether the entered URL is valid or not. Reference :How password managers help prevent phishing | Bitwarden BlogL
+
 
 ## g)
 
