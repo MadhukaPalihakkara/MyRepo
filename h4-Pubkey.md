@@ -70,9 +70,62 @@ Important flags
 Before send better to get confirm the type of the key by reading first few lines.
 
 Note:
+
    base64 encoded
+   
    End of the file marked as "-----END PGP PUBLIC KEY BLOCK-----" similar to the beginning of the file as shown below. 
+
+  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/ea714888-1f2d-433f-b3ab-63a713370079)
+
+  Create another user in the system called Alice and copy my public key to Alice's public folder
+
+ ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/9a95f83e-da6b-4d10-b077-6d17da9565d4)
+ ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/392e789d-7771-431d-9be1-5a94f76380c7)
+
+### Create keypair for Alice
+
+Get another terminal and login as Alice using following command
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/5a75bf28-258c-4649-8e87-5649af6c784e)
+
+Copy Maduka's public key in to safe location. (Ex: separate folder called AliceKeys ) 
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/91fc745b-dbee-49a1-980d-c57756cb4714)
+
+Copy and renamed Madhuka's public key
  
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/08fd671c-811d-41e3-a1a1-0a686a104785)
+
+Create new GPG settings for Alice 
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/27e61f5c-2d09-4af9-b971-9d247a2f78d3)
+
+Create a key pair for Alice
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/a9d143f6-93fb-4211-9330-a8de27f927cd)
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/557dd990-dd2d-40b0-8994-8535b82e6b5d)
+
+See the fingerprints of the created information 
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/dc789fed-2fa5-41f3-97a8-5d714b57d1a9)
+
+### Use Madhuka's public key
+
+Import Madhuka's public key
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/e4e0b6cc-a1a3-4d39-b8c7-92387726a4fa)
+
+Verify Madhuka's public key
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/70182d74-9d5d-4ce5-847a-483da2102d43)
+
+Get the Madhuka's signature of the public key offline, because it not trusted at this point. To make it trusted, Alice needs to manually verify it as follows.
+
+Get the signature from Madhuka
+
+   Note : Madhuka has to generate the key using the command below and share it with Alice.
+
+
 
 
 ## a)
