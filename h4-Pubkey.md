@@ -190,6 +190,6 @@ Protect from eavesdropping : When manually typing or copying passwords into a sy
 Protect form phishing attacks: Password managers keep track of stored URLs, allowing them to indicate to users whether the entered URL is valid or not. Reference :How password managers help prevent phishing | Bitwarden BlogL
 
 
-## g)
+## g) Done
 
-## h)
+
