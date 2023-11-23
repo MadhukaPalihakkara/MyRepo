@@ -139,7 +139,20 @@ This is not worked due to some reason (To be check this again)
 
 Alice send the secret message
 
-## a)
+## a)	 Explain how you have used public key cryptography today or yesterday
+ 
+Every day, we access numerous websites to read emails, gather information, play games, and perform various other tasks. It is imperative for users to have trust in the websites they engage with. One commonly employed method for users to establish trust is by looking for the "https://" signature at the beginning of the URL.
+ 
+The abbreviation "https" stands for Secure Hypertext Transfer Protocol, and it operates on the foundation of public key cryptography. It uses the SSL/TLS protocol for encryption and authentication. Https works on port 443 instead of famous unsecure default web port 80. 
+ 
+HTTP was originally designed for plaintext communication, making it vulnerable to eavesdropping and man-in-the-middle attacks. To address these security concerns, SSL/TLS handshake protocols were introduced, enabling the transfer of encrypted messages between the client and server. This not only ensures confidentiality but also provides authentication and integrity, enhancing the overall trustworthiness of communication.
+ 
+This security is primarily achieved through the use of public key certificates issued by a verified certificate authority for a specific website, domain, or IP address.
+ 
+Browsers play a crucial role in enforcing this security measure by verifying the certificate before allowing users to access the content of a website. If the certificate is unknown, expired, or not signed by a trusted authority, browsers issue warnings to users, indicating potential unsecure communication.
+ 
+Reference : The HTTPS-Only Standard - Introduction to HTTPS (cio.gov) , What is HTTPS? - SSL.com
+
 
 ## b)
 
