@@ -125,8 +125,19 @@ Get the signature from Madhuka
 
    Note : Madhuka has to generate the key using the command below and share it with Alice.
 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/02083f0e-df71-483d-bca8-d2cdf5cf637b)
 
+Alice can verify the same using fingerprint information
 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/8341bf82-8a52-4f96-9ccf-3ce6e78fdf89)
+
+Alice can add the fingerprint to manually
+
+This is not worked due to some reason (To be check this again)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/a8a3a812-3ada-4d63-819f-bfc58ad3a49f)
+
+Alice send the secret message
 
 ## a)
 
