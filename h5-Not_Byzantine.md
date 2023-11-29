@@ -60,7 +60,11 @@
 
 ### 5 Network
 
-•	New transactions are sent to all nodes in the network, each node gathers these transactions into a block. Nodes then engage in finding a challenging proof-of-work for their block. Upon finding the proof-of-work, a node shares the block with all other nodes. Nodes only accept a block if its transactions are valid and not previously spent. To express acceptance, nodes start working on the next block, using the accepted block's hash as the previous hash.
+•	New transactions are sent to all nodes in the network, each node gathers these transactions into a block. 
+Nodes then engage in finding a challenging proof-of-work for their block. 
+Upon finding the proof-of-work, a node shares the block with all other nodes. 
+Nodes only accept a block if its transactions are valid and not previously spent. 
+To express acceptance, nodes start working on the next block, using the accepted block's hash as the previous hash.
 
 •	The longest chain is always considered correct, and nodes continuously extend it.
 
