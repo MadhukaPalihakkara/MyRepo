@@ -111,6 +111,7 @@ Got fake money not yet confirmed
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/7bf28686-80cd-4c4e-824e-ca7b3200c800)
 
+Note: last two records are related to last week inclass activity 
 
 ## c) Giveway. Move money to another Bitcoin wallet. Choose an amount where the last two digists are 42.
 
