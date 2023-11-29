@@ -91,5 +91,26 @@ To express acceptance, nodes start working on the next block, using the accepted
 •	If an attacker has more CPU power than honest nodes, they must choose between stealing payments or generating new coins, favoring the latter for greater profit.
 
 
-## Wallet. Create a BitCoin testnet wallet
+
+## a) Wallet. Create a BitCoin testnet wallet.
+![3](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/6ec24ad3-1dcf-4606-9887-ad60ccf10091)
+
+![2](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/2062460f-a1f3-42ea-906f-f8baba41f084)
+
+Note: wallet was created last week as inclass activity.
+
+## b) Faucet. Get worthless fake money from a testnet Bitcoin faucet.
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/3247f2e6-fe3c-48cd-a73e-76fcb26afef1)
+
+copy the address from here
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/445fb83c-71a0-46c7-b085-384e8cd5151e)
+
+Got fake money not yet confirmed
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/7bf28686-80cd-4c4e-824e-ca7b3200c800)
+
+
+## c) Giveway. Move money to another Bitcoin wallet. Choose an amount where the last two digists are 42.
 
