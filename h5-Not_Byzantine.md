@@ -140,8 +140,11 @@ Blockchain Explorers are powerful tools to give access to the real time and hist
 Explain what each value and field means.
 
 Blocks :Number of confirmed Blocks, newest to oldest
+
 Transactions: Number of transactions, newest to oldest
+
 Outputs : Number of database rows represent traction outputs
+
 Address : list of all addresses and their confirmed balances. 
 
 Blockchain Size : Total size of all blocks and how its get increase over the time 
