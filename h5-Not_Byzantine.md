@@ -155,6 +155,7 @@ Network nodes : Total nodes in the network. Nodes are devices authorized to keep
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/16d4da90-f90c-4ba7-93af-c4e758e53b65)
 
 Block heights: Block height is a number of confirmed blocks in past form the initial block called Genesis block. As an example Genesis block height is zero and the next confirmed block height is  1. 
+
 Last block : Adding new transaction to the block chain network means adding a block to the block chain as a last confirmed block.  It shows time and the block number. As an additional information hash of the block, block number and some other information related to the block available.
 Difficulty :The extent of computational power needs mine a block is represented by the cryptocurrency difficulty.  
 
