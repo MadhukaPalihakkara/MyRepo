@@ -203,6 +203,17 @@ Explain what each value and field means.
   	b.	Block id : 57,043
 
   	c.	Additional Info
+
+   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/539b9f31-43b2-4466-b050-4e5e24f12236)
+
+  d. Sendors : 131
+  
+  e.	Recipient : 1
+  
+  f.	Sender current wallet statement
+  
+  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/61fac5fc-8a4c-4f0d-bd70-4a5ea867aed7)
+
   	
 
 
