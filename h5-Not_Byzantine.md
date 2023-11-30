@@ -131,4 +131,64 @@ Then I close the window and reopen and tried again, it worked
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/37b2d5e9-57e1-422d-be6b-2ed4acbd73f8)
 
-### d) 
+### d) Block Chain Explorer
+
+Blockchain Explorers are powerful tools to give access to the real time and historical blockchain data. It also provide information about block heigh, difficulty, congestion and average transaction fees.  Alsi it provides details of Orphan blocks. 
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/aa5a1678-d733-4271-a0bc-c51a944fdf8c)
+
+Explain what each value and field means.
+
+Blocks :Number of confirmed Blocks, newest to oldest
+Transactions: Number of transactions, newest to oldest
+Outputs : Number of database rows represent traction outputs
+Address : list of all addresses and their confirmed balances. 
+
+Blockchain Size : Total size of all blocks and how its get increase over the time 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/acbb9631-520e-483f-a1de-53e3d604f128)
+
+Network nodes : Total nodes in the network. Nodes are devices authorized to keep track of the distributed ledger and serve as communication hubs for various network tasks
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/16d4da90-f90c-4ba7-93af-c4e758e53b65)
+
+Block heights: Block height is a number of confirmed blocks in past form the initial block called Genesis block. As an example Genesis block height is zero and the next confirmed block height is  1. 
+Last block : Adding new transaction to the block chain network means adding a block to the block chain as a last confirmed block.  It shows time and the block number. As an additional information hash of the block, block number and some other information related to the block available.
+Difficulty :The extent of computational power needs mine a block is represented by the cryptocurrency difficulty.  
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/d3106135-5cc0-401c-8f40-1720fb0fe6bb)
+
+Next estimated difficulty : Calculated difficulty for finding the next block. 
+ 
+Next readjustment: Time to reset the difficulty level
+ 
+Mempool :  Mempool indicate statistics of all the valid transactions waiting to be confirmed. High mempool traffic indicate more traffic and longer average conformation time and higher fees.  
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/e029179e-d2f6-444c-836a-054f8c53febb)
+
+Finally explorer shows 24 hours statistics of the bitcoin blockchain transactions and price variation over the period of time.
+
+Note: 
+ 
+Orphan block - This is also known as stale or detached block. There are various factors involves cause an ophen block. Internet lags, length of the block chain, block size and the speed of the node in the block chain.   According to the factors above, it leads to generate two blocks with the same timestamp in two nodes and reject one of them when it attached to the main blockchain. For deciding which one should add to the main blockchain among two valid blocks, Bitcoin consider a block having a larger chain as a valid one. 
+
+
+### Detailed a Trx
+
+Explain what each value and field means.
+ 
+1.	Get the sample transaction from the web 
+    a.	A1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d   (https://learnmeabitcoin.com/)
+2.	Access Block explorer in Bitchair.com and provided the transaction id into the search box.
+3.	It provides the following detailed information 
+    a.	Trasaction Hash : a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
+    b.	Amount transacted : 10,000.00 BTC
+        The amount in USD at the time of transaction
+4.	Transaction fee : 0,99 BTC
+5.	Fee per vbyte : 4,191 Satoshi
+6.	Date : 13 years ago (May 22, 2010 6.16 PM UTC)
+7.	Transaction status : Confirmed
+    a.	Confirmations: 761896
+    b.	Block id : 57,043
+    c.	Additional Info 
+
+
