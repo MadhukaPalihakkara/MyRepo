@@ -177,18 +177,32 @@ Orphan block - This is also known as stale or detached block. There are various 
 Explain what each value and field means.
  
 1.	Get the sample transaction from the web 
-    a.	A1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d   (https://learnmeabitcoin.com/)
-2.	Access Block explorer in Bitchair.com and provided the transaction id into the search box.
-3.	It provides the following detailed information 
+
+  	a.	A1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d   (https://learnmeabitcoin.com/)
+
+3.	Access Block explorer in Bitchair.com and provided the transaction id into the search box.
+
+4.	It provides the following detailed information 
+
     a.	Trasaction Hash : a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
-    b.	Amount transacted : 10,000.00 BTC
-        The amount in USD at the time of transaction
-4.	Transaction fee : 0,99 BTC
-5.	Fee per vbyte : 4,191 Satoshi
-6.	Date : 13 years ago (May 22, 2010 6.16 PM UTC)
-7.	Transaction status : Confirmed
+
+  	b.	Amount transacted : 10,000.00 BTC
+
+  	     The amount in USD at the time of transaction
+
+5.	Transaction fee : 0,99 BTC
+
+6.	Fee per vbyte : 4,191 Satoshi
+
+7.	Date : 13 years ago (May 22, 2010 6.16 PM UTC)
+
+8.	Transaction status : Confirmed
+
     a.	Confirmations: 761896
-    b.	Block id : 57,043
-    c.	Additional Info 
+
+  	b.	Block id : 57,043
+
+  	c.	Additional Info
+  	
 
 
