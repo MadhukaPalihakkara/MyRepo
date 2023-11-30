@@ -113,5 +113,22 @@ Got fake money not yet confirmed
 
 Note: last two records are related to last week inclass activity 
 
+Confirmed after sometime
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/80d6336a-940f-4908-8b43-7fd43bdbab6d)
+
 ## c) Giveway. Move money to another Bitcoin wallet. Choose an amount where the last two digists are 42.
 
+Tried to send money 
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/c856aab9-f80b-4bff-9f7d-ca60b1ae5b9d)
+
+but following error occured
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/f13670b0-0b49-4ecd-8ee8-e2b2197c66d0)
+
+Then I close the window and reopen and tried again, it worked
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/37b2d5e9-57e1-422d-be6b-2ed4acbd73f8)
+
+### d) 
