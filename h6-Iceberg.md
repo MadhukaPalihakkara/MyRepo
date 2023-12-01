@@ -9,7 +9,13 @@
 •	Free to download and simple to use 
 •	Tore hides the originating IP when surfing the websites
 
-### "History and Intended Use of The Onion Router", "How The Onion Router Works", "Tracking Criminals Using TOR"
+### History and Intended Use of The Onion Router
+
+•	Initially developed by the US government in 2002, presently not controlled by any single entity but open for improvements and test 
+•	Tore intended to anonymously communicate through the internet
+
+
+### "How The Onion Router Works", "Tracking Criminals Using TOR"
 
 
 ## Quintin 2014: 7 Things You Should Know About Tor
