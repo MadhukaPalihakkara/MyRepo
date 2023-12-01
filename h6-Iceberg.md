@@ -2,7 +2,14 @@
 
 ## Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser
 
-### "Introduction", "History and Intended Use of The Onion Router", "How The Onion Router Works", "Tracking Criminals Using TOR"
+### Introduction
+
+•	Tore is a browser that can anonymously browse the internet
+•	Anyone can user this without technical instructions
+•	Free to download and simple to use 
+•	Tore hides the originating IP when surfing the websites
+
+### "History and Intended Use of The Onion Router", "How The Onion Router Works", "Tracking Criminals Using TOR"
 
 
 ## Quintin 2014: 7 Things You Should Know About Tor
