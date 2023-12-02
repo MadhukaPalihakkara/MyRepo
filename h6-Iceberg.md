@@ -19,7 +19,21 @@
 •	Tore intended to anonymously communicate through the internet
 
 
-### "How The Onion Router Works", "Tracking Criminals Using TOR"
+### How The Onion Router Works
+
+•	Tor Routing Process directs user's Internet traffic through random relays on the Internet.
+
+•	At the start data is encrypted with elliptic curve cryptography, which is like a strong layer of protection.
+
+•	Then, it goes through three stops, entry, middle, and exit relays. At each stop, one layer of protection is taken off. 
+
+•	Finally, at the exit relay, the data connects to its destination without the extra layers,
+
+•	Exit relay is only aware of the last previous node and nothing about traffic route.
+
+•	And the route change entry, middle, and exit relays every 10 minutes.
+
+###  Tracking Criminals Using TOR
 
 
 ## Quintin 2014: 7 Things You Should Know About Tor
