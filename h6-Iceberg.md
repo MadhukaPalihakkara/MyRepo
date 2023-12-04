@@ -35,6 +35,19 @@
 
 ###  Tracking Criminals Using TOR
 
+•	FBI once broke Tore, using an exploit of Firefox.
+
+•	Tore is safe with its default settings; customizations are not recommended. Eg- Geolocations, plugins, scripts.
+
+•	There are number of ways that researchers use t break Tor, some are 
+
+      o	disrupting a significant portion of the Tor network
+      o	gaining control of entry and exit nodes to correlate traffic and identify users
+      o	Man-in-the-middle attacks
+      o	Emails or documents with IP address tracking code
+      o	identifying the Tor user outside of the Tor network
+      
+•	there are several cases detected not because of vulnerabilities of Tore but mistakes made by users.
 
 ## Quintin 2014: 7 Things You Should Know About Tor
 
