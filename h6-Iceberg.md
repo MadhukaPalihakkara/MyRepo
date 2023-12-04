@@ -51,6 +51,21 @@
 
 ## Quintin 2014: 7 Things You Should Know About Tor
 
+•	Tore has not broken and the best attacks on Tore so far are vulnerabilities of browsers, configuration issues or traffic correlation attacks. 
+
+•	Tore has more value than supporting criminals, like whoever seeks privacy like military for secure communications and planning, families for privacy, and journalists for their researchers and secure communication with sources. 
+
+•	Tore is dedicated to privacy and anonymity, cryptographers and security professionals confirm there is no backdoor.
+
+•	Running a Tor relay is not illegal in US.
+
+•	Tor is easy to use, download the Tore browser bundle and start use with secure pre-configurations. Tor can also be used with live OS like Tails.
+
+•	Tor is slower than a regular browser, but it can be speed up by creating more relays.
+
+•	To get the benefit of Tore users have to use it correctly.
+
+
 ## a) Install TOR browser and access TOR network (
 
 
