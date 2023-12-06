@@ -142,13 +142,41 @@ From Tor Browser - country shows as Nigeria
 
 #### search engine for onion sites
 
+(www.hackread.com, 2022)
+
+Ahmia.fi - One of dark net search engine.  It has a policy for abuse content. It also operate in surface web as well. Juha Nurmi ( juha.nurmi@ahmia.fi) is the founder and project leader of the Ahmia search engine project. He is a security researcher, and has been involved in numerous projects funded by both the commercial and government spheres.
+ 
+Haystack5 - Haystak has a custom crawler developed specifically for the darknet, and hence it is able to find all reachable pages and index them.
+ 
+Torch - Torch, like other search engines, crawls these addresses and indexes their content, making it searchable for users. currently ithhas over 100,000 onions and over 4 million web pages. 
+
 #### marketplace
+
+Weapon : 
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/d3534187-e077-4262-8923-3973d20b7574)
+
+Drug :
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/6ce6d84d-66b0-4683-996d-2490fac0a5a4)
 
 #### fraud
 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/94c83a1f-20f2-407c-8077-00ac741d6100)
+
 #### forum
 
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/e2cab3b4-1b10-40d3-bfa3-0d33b83767ab)
+
 #### a well known organization
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/a51e930d-3707-4c44-be1a-27f21f778c74)
+
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/b89485a2-6d75-43e9-9420-d88a36f99274)
+
+![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/e28c1382-1dd1-4bdf-83cf-30def9ef461a)
+
 
 ## c) In your own words, how does anonymity work in TOR? 
 
@@ -167,3 +195,5 @@ Tor guides the internet traffic through random points (relays) on the internet, 
 4. support.torproject.org. (n.d.). Tor Browser | Tor Project | Support. [online] Available at: https://support.torproject.org/tbb/.
 
 5. WhatIsMyIPAddress.com. (2000). What Is My IP Address? IP Address Tools and More. [online] Available at: https://whatismyipaddress.com/.
+
+6. www.hackread.com. (2022). 8 Online Best Dark Web Search Engines for Tor Browser (2022). [online] Available at: https://www.hackread.com/dark-web-search-engines-tor-browser-2022/ [Accessed 6 Dec. 2023].
