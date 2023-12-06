@@ -71,7 +71,7 @@
 1. Download the Tor browser package  (torproject.org, n.d.)
 ### https://www.torproject.org/download/
 
-2. Verify the signature
+2. Verify the signature (support.torproject.org, n.d.)
    
 Copy signature file and the downloaded file to a local folder Documents named Tor
   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/f5a9fa72-51f5-4385-96c6-f9a32d33295b)
@@ -163,3 +163,4 @@ Tor guides the internet traffic through random points (relays) on the internet, 
 
 3. torproject.org. (n.d.). The Tor Project | Privacy & Freedom Online. [online] Available at: https://www.torproject.org/download/.
 
+4. support.torproject.org. (n.d.). Tor Browser | Tor Project | Support. [online] Available at: https://support.torproject.org/tbb/.
