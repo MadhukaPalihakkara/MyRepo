@@ -100,11 +100,11 @@ Signature has been verified as a valid signature. Therefor we can ensure the tru
 
 4. Now Tor Browser can be run by executing the start-tor-browser.desktop file available inside the folder
 
-      a. File was not executed due to a permission issue as follows
+  a. File was not executed due to a permission issue as follows
    
   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/12e920e3-b801-403f-aae0-0c006867008e)
 
-b. File  permissions and owner need to be changed in order to fix this error. Set the executable flg-on inorder to start-tor-browser file.
+  b. File  permissions and owner need to be changed in order to fix this error. Set the executable flg-on inorder to start-tor-browser file.
 
    ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/9290a613-dd91-4bba-870b-60d39afa72e1)
 
@@ -113,7 +113,9 @@ Owner and group information changed from root to Madhuka
   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/cfb968e2-c171-42f5-ae2a-00e20a7c7a33)
 
 5. Open the browser
+   
   a. The following options are available to register the browser and run the browser.
+  
   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/69c7d8a5-38eb-41e4-abd1-a9b78edb8849)
 
 Note: Tor Browser application not allowed to run as root user. Instead, run it as a normal user as shown in the second command above. The Tor Browser is registered as an application.  
