@@ -140,7 +140,7 @@ From Tor Browser - country shows as Nigeria
 
 ## b) Browse TOR network, find, take screenshots and comment
 
-#### search engine for onion sites
+### Search engine for onion sites
 
 (www.hackread.com, 2022)
 
@@ -150,7 +150,7 @@ Haystack5 - Haystak has a custom crawler developed specifically for the darknet,
  
 Torch - Torch, like other search engines, crawls these addresses and indexes their content, making it searchable for users. currently ithhas over 100,000 onions and over 4 million web pages. 
 
-#### marketplace
+### Marketplace
 
 Weapon : 
 
@@ -160,15 +160,15 @@ Drug :
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/6ce6d84d-66b0-4683-996d-2490fac0a5a4)
 
-#### fraud
+### Fraud
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/94c83a1f-20f2-407c-8077-00ac741d6100)
 
-#### forum
+### Forum
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/e2cab3b4-1b10-40d3-bfa3-0d33b83767ab)
 
-#### a well known organization
+### Well known organizations
 
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/a51e930d-3707-4c44-be1a-27f21f778c74)
 
