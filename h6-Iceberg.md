@@ -178,11 +178,14 @@ Drug :
 ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/e28c1382-1dd1-4bdf-83cf-30def9ef461a)
 
 
+
 ## c) In your own words, how does anonymity work in TOR? 
 
 Tor guides the internet traffic through random points (relays) on the internet, before sending there will be layers of strong encryption along the way. Each point peels off one layer of encryption until the final point (exit relay) connects to the intended destination without encryption. Tor makes it hard to trace by changing the starting, middle, and ending points of the internet route every 10 minutes. So it is not easy to track IP addresses which will provide anonimity. 
 
+
 ## d) What kind of the threat models could TOR fit? 
+
 
 ## References
 
