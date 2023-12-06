@@ -1,6 +1,6 @@
 # x) Read and summarize 
 
-## Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser
+## Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser (www.oreilly.com, n.d.)
 
 ### Introduction
 
@@ -49,7 +49,7 @@
       
 •	there are several cases detected not because of vulnerabilities of Tore but mistakes made by users.
 
-## Quintin 2014: 7 Things You Should Know About Tor
+## Quintin 2014: 7 Things You Should Know About Tor (Quintin, 2014)
 
 •	Tore has not broken and the best attacks on Tore so far are vulnerabilities of browsers, configuration issues or traffic correlation attacks. 
 
@@ -66,9 +66,9 @@
 •	To get the benefit of Tore users have to use it correctly.
 
 
-## a) Install TOR browser and access TOR network (
+## a) Install TOR browser and access TOR network
 
-1. Download the Tor browser package
+1. Download the Tor browser package  (torproject.org, n.d.)
 ### https://www.torproject.org/download/
 
 2. Verify the signature
@@ -157,4 +157,9 @@ Tor guides the internet traffic through random points (relays) on the internet, 
 
 ## References
 
+1. www.oreilly.com. (n.d.). Chapter 2. The Tor Browser - Hiding Behind the Keyboard [Book]. [online] Available at: https://www.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010 [Accessed 6 Dec. 2023].
+   
+2. Quintin, C. (2014). 7 Things You Should Know About Tor. [online] Electronic Frontier Foundation. Available at: https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor [Accessed 24 Jan. 2023]. 
+
+3. torproject.org. (n.d.). The Tor Project | Privacy & Freedom Online. [online] Available at: https://www.torproject.org/download/.
 
