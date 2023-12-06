@@ -113,16 +113,16 @@ Owner and group information changed from root to Madhuka
   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/cfb968e2-c171-42f5-ae2a-00e20a7c7a33)
 
 5. Open the browser
-      a. The following options are available to register the browser and run the browser.
+  a. The following options are available to register the browser and run the browser.
   ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/69c7d8a5-38eb-41e4-abd1-a9b78edb8849)
 
 Note: Tor Browser application not allowed to run as root user. Instead, run it as a normal user as shown in the second command above. The Tor Browser is registered as an application.  
 
-      b. Start Tor Browser
+  b. Start Tor Browser
       
-      ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/ed530a6b-7bac-4b45-87cb-badf1970b43d)
+  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/ed530a6b-7bac-4b45-87cb-badf1970b43d)
 
-      ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/9afd77d3-a7ca-42a1-93a4-0f8be513007b)
+  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/9afd77d3-a7ca-42a1-93a4-0f8be513007b)
 
 ### Connect to the network and check my publicly visible IP address
 
