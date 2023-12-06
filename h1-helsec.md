@@ -140,8 +140,9 @@ The letters not in the password "UNDERPASS" are B, C, F, G, H, I, J, K, L, M, O,
 
 AI works according to the provided instructions and implemented algorithms. It is not impossible to break or find weak points of an AI implementation. I believe this is a good answer to the question 'Will AI replace human professionals?', AI will be best at automating repetitive work and processing big amounts of data but in solving complex problems, creativity, and critical thinking still human professionals are in the lead. 
 
+
+## References 
 [Updated - 04/12/2023]
-## References
 
 1. www.twitch.tv. (n.d.). HelSec - Twitch. [online] Available at: https://www.twitch.tv/helsec [Accessed 6 Dec. 2023].
 
