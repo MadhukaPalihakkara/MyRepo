@@ -96,7 +96,7 @@ Signature has been verified as a valid signature. Therefor we can ensure the tru
 
   Extracting files and finally created an new directory named tor-browser.
 
-    ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/2b7c7eaa-017c-4264-b53c-5b9d96503395)
+  ![image](https://github.com/MadhukaPalihakkara/MyRepo/assets/149093784/2b7c7eaa-017c-4264-b53c-5b9d96503395)
 
 4. Now Tor Browser can be run by executing the start-tor-browser.desktop file available inside the folder
 
